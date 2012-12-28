@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = ">= 1.3.6"
   
   # If you have runtime dependencies, add them here
-  s.add_runtime_dependency "validatable"
+  s.add_runtime_dependency "jnunemaker-validatable",        "~> 1.8.4"
   
   # If you have development dependencies, add them here
   # s.add_development_dependency "another", "= 0.9"
