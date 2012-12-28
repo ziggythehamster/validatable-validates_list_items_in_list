@@ -1,0 +1,15 @@
+PATH
+  remote: .
+  specs:
+    validatable-validates_list_items_in_list (0.0.1)
+      validatable
+
+GEM
+  specs:
+    validatable (1.6.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  validatable-validates_list_items_in_list!
